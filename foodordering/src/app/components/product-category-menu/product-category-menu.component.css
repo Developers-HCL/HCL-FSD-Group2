@@ -1,0 +1,22 @@
+.page:hover
+{
+    height: 100%;
+    background-color: white;
+   
+    cursor: pointer;
+   font-size: larger;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+.navbar-sidebar:hover
+{
+ 
+    font-family:'Pacifico',cursive;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9RPq5RVwWa9Dp42kbq5IgvGzqQA-8Dx0nw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius: 40%;
+}
+
+/* https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSGmOlFpCA9hMl5tPugf8eVzQnwH5KcE58Q&usqp=CAU */
